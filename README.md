@@ -43,6 +43,8 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/syedtahirali13501
+- Phone No: syedtahirali13501@gmail.com
+- Whatsapp: 03465893966
 
 ---
 
