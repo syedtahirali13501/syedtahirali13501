@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Tahir Ali
 
-<!--
-**syedtahirali13501/syedtahirali13501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 .NET Developer | Backend Developer | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 I’m working on backend systems using ASP.NET Core
+- 🌱 Currently improving skills in Entity Framework Core, SQL Server, and Web APIs
+- 💡 Interested in building real-world business applications
+- 🎯 Goal: Become a strong Full Stack / Backend Software Engineer
+- 📚 Always learning through hands-on projects
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Language: C#
+- 🌐 Backend: ASP.NET Core Web API
+- 🗄️ Database: SQL Server, Entity Framework Core
+- 🔧 Tools: Visual Studio, Git, GitHub, Postman
+
+---
+
+## 🚀 Projects
+
+- 📦 Meezan Beverage System  
+- 📦 Treet Dynamic Forms  
+- 📦 Uniliver Food Complaints Management  
+
+---
+
+## 📈 Current Focus
+
+- Building enterprise-level backend systems
+- Improving API design and architecture
+- Strengthening database skills
+- Learning deployment and DevOps basics
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/syedtahirali13501
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning real-world business problems into working software solutions.
