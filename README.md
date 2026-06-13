@@ -1,4 +1,3 @@
-# <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=220&section=header&text=Syed%20Tahir%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=bbdefb" />
 </p>
@@ -25,7 +24,7 @@ var developer = new Developer
     Name        = "Syed Tahir Ali",
     Role        = ".NET Developer | Backend Engineer",
     CurrentWork = "Building backend systems with ASP.NET Core & Angular",
-    Learning    = new[] { "System Design", "Clean Architecture", "Azure DevOps" },
+    Learning    = new[] { "System Design", "Clean Architecture", "Microservices" },
     Passion     = "Turning real-world business problems into scalable solutions",
     Goal        = "Strong Backend / Full Stack Engineer 🎯"
 };
@@ -55,10 +54,10 @@ var developer = new Developer
   <img src="https://img.shields.io/badge/Dapper-1A1A2E?style=for-the-badge&logo=nuget&logoColor=white"/>
 </p>
 
-### ☁️ DevOps & Deployment
+### 🚀 DevOps & Deployment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ADO-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -106,7 +105,7 @@ var developer = new Developer
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
         <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
       </p>
-      <p>Enterprise complaint management platform for Unilever's food division, deployed on IIS with full pipeline via Azure DevOps.</p>
+      <p>Enterprise complaint management platform for Unilever's food division, deployed on IIS with ADO pipelines.</p>
     </td>
     <td width="50%">
       <h3 align="center">🔨 More Coming Soon...</h3>
